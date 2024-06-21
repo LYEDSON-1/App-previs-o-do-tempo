@@ -11,9 +11,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(img/previsao-do-tempo-meteorologia.jpg) ;
+    background-image: url(img/2018_01_01-Previsao-de-tempo-e-clima-Principios-basicos-GEOGRAFIA.png) ;
     background-repeat: no-repeat;
-    
+    background-position: center;
     background-size: cover;
 }
 
